@@ -18,7 +18,8 @@ public class ExamSystem {
         if (answer1.equals("b")) {
             score++;
             System.out.println("Correct!");
-        } else {
+        }
+        else {
             System.out.println("Incorrect.");
         }
 
@@ -32,7 +33,8 @@ public class ExamSystem {
         if (answer2.equals("b")) {
             score++;
             System.out.println("Correct!");
-        } else {
+        } 
+        else {
             System.out.println("Incorrect.");
         }
 
@@ -46,7 +48,8 @@ public class ExamSystem {
         if (answer3.equals("c")) {
             score++;
             System.out.println("Correct!");
-        } else {
+        } 
+        else {
             System.out.println("Incorrect.");
         }
 
